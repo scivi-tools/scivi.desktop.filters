@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Surface3D.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LinearDatetime.qml</file>
+    </qresource>
+</RCC>
